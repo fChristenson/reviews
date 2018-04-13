@@ -1,0 +1,11 @@
+{
+  "name": "cypress review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^1.4.1"
+  }
+}
